@@ -1,0 +1,9 @@
+import datetime
+
+def show_current_time():
+    current_time = datetime.datetime.now()
+    formatted_time = current_time.strftime("%Y-%m-%d %H:%M:%S")
+    print("Current Time:", formatted_time)
+#to show time only not date 
+# Call the function to display the current time not date
+show_current_time()
