@@ -1,2 +1,5 @@
 java code
 
+python code and .net code
+
+java script and c++ code also added 
